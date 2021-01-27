@@ -36,6 +36,7 @@ Vendure is a headless GraphQL e-commerce framework for the modern web.
 ### Plugins
 - [Find plugins on GitHub](https://github.com/search?p=2&q=vendure+plugin+-user%3Avendure-ecommerce&type=Repositories)
 - [vendure-plugin-webhook](https://www.npmjs.com/package/vendure-plugin-webhook) - Trigger webhooks based on configured Vendure events.
+- [vendure-plugin-google-storage-assets](https://www.npmjs.com/package/vendure-plugin-google-storage-assets) - Store Vendure assets on Google Cloud Storage.
 
 ### Built with Vendure
 - [CB Made In Italy](https://cbmadeinitaly.com) - An online store for an italian luxury footwear brand. Built using Vendure + Vue Storefront.
